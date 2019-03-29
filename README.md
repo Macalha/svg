@@ -1,2 +1,2 @@
 # svg
-Exercise to make SVG graphics
+Examples to learn how to create SVG graphics
